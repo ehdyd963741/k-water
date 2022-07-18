@@ -67,4 +67,7 @@ window.onload = function () {
       $(this).addClass('sw-about-play');
     }
   });
+  //aos
+  AOS.init();
+
 };
